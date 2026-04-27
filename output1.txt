@@ -1,0 +1,61 @@
+Name: Adarsh kumar singh
+Roll No: 2501730458
+Course: B.Tech CSE AI/ML
+Section: G
+
+Correctness Check:
+Original: [5, 2, 9, 1, 5, 6]
+Insertion: [1, 2, 5, 5, 6, 9]
+Merge: [1, 2, 5, 5, 6, 9]
+Quick: [1, 2, 5, 5, 6, 9]
+
+========== SIZE: 1000 ==========
+
+Random Data:
+Insertion Sort: 120.45 ms
+Merge Sort: 10.12 ms
+Quick Sort: 8.34 ms
+
+Sorted Data:
+Insertion Sort: 2.10 ms
+Merge Sort: 9.45 ms
+Quick Sort: 50.22 ms
+
+Reverse Data:
+Insertion Sort: 200.56 ms
+Merge Sort: 11.01 ms
+Quick Sort: 70.89 ms
+
+========== SIZE: 5000 ==========
+
+Random Data:
+Insertion Sort: 3000.78 ms
+Merge Sort: 60.34 ms
+Quick Sort: 50.11 ms
+
+Sorted Data:
+Insertion Sort: 10.56 ms
+Merge Sort: 55.90 ms
+Quick Sort: 600.45 ms
+
+Reverse Data:
+Insertion Sort: 4500.67 ms
+Merge Sort: 65.22 ms
+Quick Sort: 700.88 ms
+
+========== SIZE: 10000 ==========
+
+Random Data:
+Insertion Sort: 12000.34 ms
+Merge Sort: 120.56 ms
+Quick Sort: 100.22 ms
+
+Sorted Data:
+Insertion Sort: 20.45 ms
+Merge Sort: 110.11 ms
+Quick Sort: 1500.78 ms
+
+Reverse Data:
+Insertion Sort: 20000.89 ms
+Merge Sort: 130.45 ms
+Quick Sort: 1800.66 ms
